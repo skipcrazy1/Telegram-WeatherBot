@@ -96,8 +96,8 @@ python tgbot.py
 
 ## 👤 Автор
 
-**Автор:** <skicrazy1>  
-**GitHub:** https://github.com/<skipcrazy1>  
+**Автор:** skicrazy1  
+**GitHub:** https://github.com/skipcrazy1  
 **Telegram:** @columbiuss  
 
 ---
